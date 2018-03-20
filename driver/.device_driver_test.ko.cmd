@@ -1,1 +1,0 @@
-cmd_/home/practice/Workspace/ele3021/driver/device_driver_test.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/practice/Workspace/ele3021/driver/device_driver_test.ko /home/practice/Workspace/ele3021/driver/device_driver_test.o /home/practice/Workspace/ele3021/driver/device_driver_test.mod.o
