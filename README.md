@@ -14,4 +14,4 @@ directory `linux`: linux-4.1.38 kernel
 commit with, 'Week(n) init' commit required files.
 commit with, 'Week(n) done' commit changed files for homework.
 
-Same project@[github](https://github.com/MaybeS/ELE3021)
+Same project@[github](https://github.com/jiunbae/ELE3021)
